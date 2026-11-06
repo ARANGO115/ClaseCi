@@ -3,10 +3,10 @@ name: validar HTML
 on:
     push:
         branches:
-            - main
+            - Jhoan
     pull_request:
         branches:
-            - main
+            - Jhoan
 
 jobs:
     validar:
